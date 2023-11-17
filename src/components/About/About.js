@@ -1,5 +1,6 @@
 import GitHubIcon from '@material-ui/icons/GitHub'
 import LinkedInIcon from '@material-ui/icons/LinkedIn'
+import { RxNotionLogo } from 'react-icons/rx'
 import { about } from '../../portfolio'
 import './About.css'
 
@@ -44,7 +45,7 @@ const About = () => {
                 aria-label='linkedin'
                 className='link link--icon'
               >
-                <LinkedInIcon />
+                <RxNotionLogo size={24} />
               </a>
             )}
           </>

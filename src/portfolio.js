@@ -1,19 +1,19 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'http://localhost:3000/cleanfolio',
-  title: 'JS.',
+  homepage: 'https://rejun0.github.io/',
+  title: '',
 }
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: 'John Smith',
-  role: 'Front End Engineer',
+  name: 'Junho Lee',
+  role: 'Full Stack Engineer',
   description:
     'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
   resume: 'https://example.com',
   social: {
-    linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
+    linkedin: 'https://notion.com',
+    github: 'https://github.com/rejun0',
   },
 }
 
@@ -36,14 +36,6 @@ const projects = [
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
-  {
-    name: 'Project 3',
-    description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-  },
 ]
 
 const skills = [
@@ -52,20 +44,20 @@ const skills = [
   'HTML',
   'CSS',
   'JavaScript',
-  'TypeScript',
+  'JSP',
   'React',
   'Redux',
-  'SASS',
-  'Material UI',
+  'Java',
+  'Spring',
+  'Oracle',
+  'MySQL',
+  'MyBatis',
   'Git',
-  'CI/CD',
-  'Jest',
-  'Enzyme',
 ]
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'johnsmith@mail.com',
+  email: 'rejun0@naver.com',
 }
 
 export { header, about, projects, skills, contact }
