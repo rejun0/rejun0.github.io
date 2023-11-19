@@ -1,3 +1,5 @@
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
+
 .project {
   padding: 2em;
   margin: 0 auto;
@@ -12,6 +14,8 @@
 
 .project__description {
   margin-top: 1em;
+  font-family: Pretendard;
+  font-size: 1.0625rem;
 }
 
 .project__stack {
@@ -29,5 +33,5 @@
 }
 
 .project .link--icon {
-  margin-left: 0.5em;
+  margin-left: 1em;
 }

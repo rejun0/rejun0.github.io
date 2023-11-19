@@ -1,3 +1,5 @@
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
+
 .about {
   flex-direction: column;
   margin-top: 3em;
@@ -12,6 +14,8 @@
 }
 
 .about__desc {
+  white-space: pre-wrap;
+  font-family: Pretendard, 'Noto Sans KR', sans-serif;
   font-size: 1rem;
   max-width: 600px;
 }

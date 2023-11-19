@@ -2,6 +2,7 @@ import uniqid from 'uniqid'
 import GitHubIcon from '@material-ui/icons/GitHub'
 import LaunchIcon from '@material-ui/icons/Launch'
 import './ProjectContainer.css'
+import { RxNotionLogo } from 'react-icons/rx'
 
 const ProjectContainer = ({ project }) => (
   <div className='project'>
@@ -34,7 +35,7 @@ const ProjectContainer = ({ project }) => (
         aria-label='live preview'
         className='link link--icon'
       >
-        <LaunchIcon />
+        <RxNotionLogo size={24} />
       </a>
     )}
   </div>
