@@ -6,13 +6,14 @@ import { RxNotionLogo } from 'react-icons/rx'
 
 const ProjectContainer = ({ project }) => (
   <div className='project'>
-    <h3>{project.name}</h3>
-
-    <img
-      className='project__description'
-      src={project.description}
-      alt='Description'
-    />
+    <a href='#se'>
+      <h3>{project.name}</h3>
+      <img
+        className='project__description'
+        src={project.description}
+        alt='Description'
+      />
+    </a>
     {project.stack && (
       <ul className='project__stack'>
         {project.stack.map((item) => (
