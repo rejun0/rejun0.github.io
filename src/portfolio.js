@@ -23,7 +23,7 @@ const projects = [
   {
     name: 'Dot',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam <a href="https://example.com"><img src="https://example.com/image.jpg" alt="Project Image"></a>',
     stack: ['Java', 'Spring', 'HTML5', 'CSS', 'JS', 'MyBatis'],
     sourceCode: 'https://github.com',
     livePreview: 'https://notion.com',
