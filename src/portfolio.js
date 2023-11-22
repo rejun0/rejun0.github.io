@@ -13,7 +13,8 @@ const about = {
   resume:
     'https://www.figma.com/proto/XN7DqVKRVXWs3Gqo3YjWOc/Portfolio?type=design&node-id=4-1582&t=hC71f7ci3oxo6s3I-0&scaling=min-zoom&page-id=0%3A1',
   social: {
-    linkedin: 'https://notion.com',
+    linkedin:
+      'https://expensive-preface-64c.notion.site/26aee3e52c6646b4b98b0e7204058b38?pvs=4',
     github: 'https://github.com/rejun0',
   },
 }
