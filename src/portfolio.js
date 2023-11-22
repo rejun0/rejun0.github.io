@@ -10,7 +10,8 @@ const about = {
   role: 'Full Stack Engineer',
   description:
     '상상한 무궁무진한 아이디어를 제가 배운 기술로 구현해가는 과정이 재밌습니다.\n항상 새로운 시도를 두려워하지 않는 풀스택 개발자가 되겠습니다.\n거칠고 빠르게 지나가는 물보다 잔잔하게 오랫동안 깊이 있게 흐르는 물처럼 꾸준히 공부하고,\n 계속 해서 나아갈 자신이 있습니다. 성실하게 쌓은 지식으로,\n 회사에 실질적인 도움이 되는 풀스택 개발자로 일하고 싶습니다.',
-  resume: 'https://example.com',
+  resume:
+    'https://www.figma.com/proto/XN7DqVKRVXWs3Gqo3YjWOc/Portfolio?type=design&node-id=4-1582&t=hC71f7ci3oxo6s3I-0&scaling=min-zoom&page-id=0%3A1',
   social: {
     linkedin: 'https://notion.com',
     github: 'https://github.com/rejun0',
