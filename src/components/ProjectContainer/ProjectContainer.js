@@ -6,7 +6,7 @@ import { RxNotionLogo } from 'react-icons/rx'
 
 const ProjectContainer = ({ project }) => (
   <div className='project'>
-    <a href='#se'>
+    <a href='https://www.figma.com/proto/XN7DqVKRVXWs3Gqo3YjWOc/Portfolio?type=design&node-id=4-1582&t=hC71f7ci3oxo6s3I-0&scaling=min-zoom&page-id=0%3A1'>
       <h3>{project.name}</h3>
       <img
         className='project__description'
