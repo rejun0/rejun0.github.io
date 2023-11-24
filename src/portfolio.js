@@ -25,11 +25,10 @@ const projects = [
   {
     name: 'Dot',
     description:
-      'https://www.notion.so/Dot-a6b41d04e8674f5c836f147f88700364?pvs=4',
+      'https://raw.githubusercontent.com/rejun0/rejun0.github.io/main/src/resources/images/Dot_Preview.png',
     stack: ['Java', 'Spring', 'HTML5', 'CSS', 'JS', 'MyBatis'],
     sourceCode: 'https://github.com',
-    livePreview:
-      'https://www.notion.so/Dot-a6b41d04e8674f5c836f147f88700364?pvs=4',
+    livePreview: 'https://notion.com',
   },
   {
     name: 'Fundable',
