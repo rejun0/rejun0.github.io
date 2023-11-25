@@ -13,8 +13,7 @@ const about = {
   resume:
     'https://raw.githubusercontent.com/rejun0/rejun0.github.io/main/src/resources/images/figma-1.png',
   social: {
-    linkedin:
-      'https://expensive-preface-64c.notion.site/26aee3e52c6646b4b98b0e7204058b38?pvs=4',
+    linkedin: 'https://www.notion.so/65130d5d053d443aa837e2bfb9f27959?pvs=4',
     github: 'https://github.com/rejun0',
   },
 }
