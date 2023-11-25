@@ -6,7 +6,7 @@ import { RxNotionLogo } from 'react-icons/rx'
 
 const ProjectContainer = ({ project }) => (
   <div className='project'>
-    <a href='https://www.notion.so/Dot-a6b41d04e8674f5c836f147f88700364?pvs=4'>
+    <a href='https://maize-clementine-b48.notion.site/Dot-a6b41d04e8674f5c836f147f88700364?pvs=4'>
       <h3>{project.name}</h3>
       <img
         className='project__description'

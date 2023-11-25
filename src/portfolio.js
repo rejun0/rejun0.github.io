@@ -13,7 +13,8 @@ const about = {
   resume:
     'https://raw.githubusercontent.com/rejun0/rejun0.github.io/main/src/resources/images/figma-1.png',
   social: {
-    linkedin: 'https://www.notion.so/65130d5d053d443aa837e2bfb9f27959?pvs=4',
+    linkedin:
+      'https://maize-clementine-b48.notion.site/65130d5d053d443aa837e2bfb9f27959?pvs=4',
     github: 'https://github.com/rejun0',
   },
 }
@@ -25,17 +26,19 @@ const projects = [
     name: 'Dot',
     description:
       'https://raw.githubusercontent.com/rejun0/rejun0.github.io/main/src/resources/images/Dot_Preview.png',
-    stack: ['Java', 'Spring', 'HTML5', 'CSS', 'JS', 'MyBatis'],
+    stack: ['Java', 'Spring', 'HTML5', 'CSS', 'JS', 'MyBatis', 'Oracle'],
     sourceCode: 'https://github.com',
-    livePreview: 'https://notion.com',
+    livePreview:
+      'https://maize-clementine-b48.notion.site/Dot-a6b41d04e8674f5c836f147f88700364?pvs=4',
   },
   {
     name: 'Fundable',
     description:
       'https://raw.githubusercontent.com/rejun0/rejun0.github.io/main/src/resources/images/Fundable_Preview.png',
-    stack: ['Java', 'JSP&Servlet', 'HTML5', 'CSS', 'JS', 'MyBatis'],
+    stack: ['Java', 'JSP&Servlet', 'HTML5', 'CSS', 'JS', 'MyBatis', 'Oracle'],
     sourceCode: 'https://github.com',
-    livePreview: 'https://notion.com',
+    livePreview:
+      'https://maize-clementine-b48.notion.site/Fundable-541ade7207a64124ace879240da92300?pvs=4',
   },
 ]
 
