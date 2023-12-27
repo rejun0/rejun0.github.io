@@ -14,7 +14,7 @@ const about = {
     'https://raw.githubusercontent.com/rejun0/rejun0.github.io/main/src/resources/images/figma-1.png',
   social: {
     linkedin:
-      'https://maize-clementine-b48.notion.site/65130d5d053d443aa837e2bfb9f27959?pvs=4',
+      'https://maize-clementine-b48.notion.site/fdd220f2bc9548348a2df81a2de81c3f?pvs=4',
     github: 'https://github.com/rejun0',
   },
 }
